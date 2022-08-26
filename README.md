@@ -1,5 +1,25 @@
 # dkeeper
 
+dkeeper is a web3 DApp which essentially mimics the google keep functionality. so you can take some notes, you can add a title and go ahead and add it to the keeper.
+
+I was following a online web development bootcamp taught by Angela Yu to build this app. I built it using React framework for frontend, and adding an ICP backend , data persistance and sorage for this application to makie it fully feature and also decentralized on the internet conmputer blockchain.
+
+
+## running the project locally 
+
+### initialized ICP locally
+dfx start    
+
+### deploy the canisters on ICP
+dfx deploy 
+
+### install the required npm modules 
+npm install 
+
+### start the server which can be access at http://localhost:8080
+npm start 
+
+### below are the further information about the ICP
 Welcome to your new dkeeper project and to the internet computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
 
 To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens.

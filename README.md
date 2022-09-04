@@ -4,6 +4,11 @@ dkeeper is a web3 DApp which essentially mimics the google keep functionality. s
 
 I was following a online web development bootcamp taught by Angela Yu to build this app. I built it using React framework for frontend, and adding an ICP backend , data persistance and sorage for this application to makie it fully feature and also decentralized on the internet conmputer blockchain.
 
+![keep1](https://user-images.githubusercontent.com/83742957/188333912-72c8f19c-6eb1-49c6-9fb9-9f4718db6b84.jpg)
+![k2](https://user-images.githubusercontent.com/83742957/188333914-4b616b30-c02b-4f5b-bd13-2dfa501fb643.jpg)
+![k3](https://user-images.githubusercontent.com/83742957/188333918-1b893caf-fd26-43ef-a576-7270490c1814.jpg)
+
+
 
 ## running the project locally 
 
